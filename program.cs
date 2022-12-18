@@ -1,6 +1,6 @@
 using System; 
 
-namespace Oop;  
+namespace mustafa suliman;  
 
 public class Person{
     private string _name;
